@@ -60,5 +60,8 @@ for (CreditCard card : wallet) {
      System.out.println("New balance = " + card.getBalance( ));
    }
  }
+CreditCard card = new PredatoryCreditCard("John Bowman", "California Savings","5391 0375 9387 5309", 5000,300,1.2);
+System.out.println();
+printSummary(card);
 }
 }

@@ -9,7 +9,12 @@
         -update methods eg icrementCount()
         -main method - runs program
     -StringBuilder class -mutable version of a string
-    -Enum types- represents choices from a finite set 
+    -Enum types- represents choices from a finite set
         eg public enum Color ={GREEN,RED,BLUE,PURPLE};
             Color color;
                 color = Color.GREEN;
+
+## Object Oriented design principals
+ * Abstraction
+ * Encapsulation
+ * Modularity
