@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Photograph",
+            "request": "launch",
+            "mainClass": "Photograph"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreditCard",
+            "request": "launch",
+            "mainClass": "CreditCard"
+        }
+    ]
+}

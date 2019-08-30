@@ -19,7 +19,7 @@ public class BirthdayParadox{
   }
 
   //check how many times the birthdate appears
-  public static int [] timesTheBirthdateOccurs(int date,int [] birthdates){
+  public static int timesTheBirthdateOccurs(int date,int [] birthdates){
     int count=0;
     for(int i=0;i<birthdates.length;i++){
       if(date==birthdates[i]){
@@ -31,8 +31,8 @@ public class BirthdayParadox{
 
   //calculate probability that two have thw same birthdays
   public static void printProbability(int count,int counts){
-    double probability=counts/count
-    System.out.println("the probablity that two share birthdates = "+probability)
+    double probability=counts/count;
+    System.out.println("the probablity that two share birthdates = "+probability);
   }
 
   public static void main(String[] args) {

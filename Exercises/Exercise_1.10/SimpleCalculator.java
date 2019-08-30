@@ -52,12 +52,7 @@ public class SimpleCalculator{
                 doCalculation(oper, number);
                 input.nextLine();
             }
-            
-        }
-        
 
-        
-      
-   
+        }
     }
 }
