@@ -1,4 +1,5 @@
 ##                         Data Structures
+<<<<<<< HEAD
 -getting started
     -classes and objects
         *floating point :6.87638F
@@ -18,3 +19,6 @@
  * Abstraction
  * Encapsulation
  * Modularity
+=======
+* learning datastructures
+>>>>>>>
